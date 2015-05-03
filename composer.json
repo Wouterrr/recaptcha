@@ -1,0 +1,22 @@
+{
+  "name": "wouterrr/recaptcha",
+  "type": "kohana-module",
+  "description": "Recaptcha for Kohana",
+  "keywords": ["kohana", "recaptcha"],
+  "homepage": "https://github.com/Wouterrr/recaptcha",
+  "license": "BEER-WARE",
+  "authors": [
+    {
+      "name": "Wouter Wiegmans"
+    }
+  ],
+  "support": {
+    "issues":   "http://github.com/Wouterrr/recaptcha/issues",
+    "source":   "http://github.com/Wouterrr/recaptcha"
+  },
+  "require": {
+    "composer/installers": "~1.0",
+    "kohana/core": ">=3.3",
+    "php": ">=5.3.0"
+  }
+}
